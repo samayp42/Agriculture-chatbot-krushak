@@ -1,5 +1,5 @@
 # Agriculture-chatbot-krushak
-Agruculture chatbot based on Custom dataset and Google-Gemini-LLM
+Agriculture chatbot based on Custom dataset and Google-Gemini-LLM
 
 Sure, here's a basic README file for your project:
 
