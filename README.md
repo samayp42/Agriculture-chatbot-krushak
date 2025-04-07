@@ -1,7 +1,6 @@
 # Agriculture-chatbot-krushak
 Agriculture chatbot based on Custom dataset and Google-Gemini-LLM
 
-Sure, here's a basic README file for your project:
 
 Krushak
 Krushak is a Flask-based web application designed to provide agricultural information and assistance to users. It leverages the Gemini API for natural language generation and responds to user queries related to agriculture, crops, and farming practices.
